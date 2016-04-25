@@ -23,3 +23,7 @@ body {
   width: 100px;
   margin-right: 10px;
 }
+
+.bridgefoundry-advisors-imgs {
+  margin: 0 auto 5px 5px;border: 2px solid #ccc;width: 150px;height: 150px;float: right;
+}

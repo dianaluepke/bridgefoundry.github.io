@@ -1,0 +1,121 @@
+---
+layout: post
+---
+
+##Bridge Foundry Advisory Board
+
+<br />
+<br />
+<br />
+
+###Jennifer Argüello
+
+<img alt="Bridge Foundry Advisor Jennifer Argüello" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAARIAAAAJDJlOTBkOWIxLTI0MmUtNDBlZS1hNTA2LTNkNjA0M2RmM2IzNQ.jpg">
+
+Jennifer Argüello is currently the Senior Technical Development Manager at GitHub. She is passionate about making the world a better place through innovations in education and technology.  15+ years of professional experience in a variety of technical roles for small and large high-tech companies.  20+ years of involvement in national organizations aimed at the advancement of underrepresented people of color and women in technology fields.  Jennifer serves on the advisory boards of Globaloria and Silicon Valley Latino.
+
+Areas of Focus
+
+- Education Tech Product Management
+- STEM programs for underrepresented youth of color
+- Computer Science K12 education
+- Non-Profit Leadership
+
+<br />
+<br />
+<br />
+
+###Chris Aniszczyk
+
+<img alt="Bridge Foundry Advisor Chris Aniszczyk" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/035/29b/2ddb4a1.jpg">
+
+Chris Aniszczyk ([@cra](https://twitter.com/cra)) is an engineer by trade with a passion for open source and building developer communities. He currently serves as interim Executive Director of the [Cloud Native Computing Foundation](http://cncf.io/). At Twitter, he created their [open source program](https://engineering.twitter.com/opensource) ([@TwitterOSS](https://twitter.com/twitteross)) and leads their open source efforts. For many years he served on the Eclipse Foundation's [Board of Directors](https://eclipse.org/org/foundation/directors.php) representing the committer community and the [Java Community Process Executive Committee](https://jcp.org/en/participation/committee). He's also served as a mentor for many years at Google Summer's of Code (GSOC) and helped Twitter participate in the Outreach program. In a previous life, he bootstrapped an open source consulting company, made many mistakes, lead and hacked on many [eclipse.org](http://eclipse.org/) and Linux related projects.
+
+Areas of Focus
+
+- Open Source
+- Technical Leadership
+- Non-Profit Governance
+- Partnerships
+- Community Management
+
+<br />
+<br />
+<br />
+
+###Amanda Cooper
+
+<img alt="Bridge Foundry Advisor Amanda Cooper" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/p/8/005/0b7/130/18a8910.jpg">
+
+Amanda Cooper is a seasoned strategic communicator and campaigner who provides consulting, training and coaching support for social justice movement leaders and organizations throughout the country. Amanda is always challenging herself and the people she works with to ask the tough questions about communications, making sure they are reaching the right people with the right message at the right time. She has recently worked with clients like the Ms. Foundation for Women, Forward Together’s Strong Families Initiative, Demos, Transgender Law Center, and the Ella Baker Center for Human Rights.  
+
+She has also worked as a communications director and press secretary for labor organizations, providing critical strategic and tactical support to dozens of successful organizing, corporate and political campaigns. She used the latest opinion data to create media strategies, messages, and even picket signs and chants with broader appeal. She revolutionized the training of worker spokespeople, bringing workers inside the strategy to become more focused, passionate, and effective.  Before joining the labor movement, Amanda was the media relations manager for the Brennan Center for Justice, and her early career included roles in public relations and development for the Children’s Village in Dobbs Ferry, NY and for the Los Angeles Regional Foodbank.  She currently a partner at LightBox Collective.
+
+Areas of Focus
+
+- Media / Press
+- Social Media
+- Labor / Social Justice
+
+<br />
+<br />
+<br />
+
+###Lisa Gelobter
+
+<img alt="Bridge Foundry Advisor Lisa Gelobter" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAUYAAAAJDcyODAzNzY1LTg2MjItNDAwOS1hMTBlLTM3NzgxMGRlMGYzZQ.jpg">
+
+Lisa Gelobter works for the White House, in the United States Digital Service. She is currently serving as the Chief Digital Service Officer with the US Department of Education.
+ 
+Lisa has been working in digital technology for more than 20 years, with a focus on strategy, operations, and product development. She has been integrally involved with the advent of several pioneering internet technologies, including Shockwave, the genesis of animation on the web, and the emergence of online video by way of Brightcove, Joost, and The FeedRoom. Previously, Lisa was the Interim Head of Digital for BET Networks and ran Technology, Product and Business Operations. She was also a member of the senior management team for the launch of Hulu. Through the convergence of media and technology, Lisa has been fortunate enough to have had an impact on how, where, and when media is consumed and she is now bringing that consumer focus and transformative practice to bear in government.
+ 
+Lisa is proud to be a Black Woman with a degree in Computer Science. Go STEM!
+ 
+Areas of Focus
+
+- Technical Leadership
+- Media Technology
+- Diversity in STEM 
+
+<br />
+<br />
+<br />
+
+###Sef Kloninger 
+
+<img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAKCAAAAJGRkMTE3NTQyLTJlNzMtNGIxMy04MmEwLTFjZWY0NDE4MTE3ZQ.jpg">
+
+Sef Kloninger has been a professional software engineer and engineering manager for over twenty years. Most of his work has been developing infrastructure and services for Internet applications at Akamai, VMware, Ning, and Google. He has worked in big enterprise software engineering orgs as well as small fast-moving teams. He prefers agile teams delivering weekly instead of yearly. He currently manages an engineering team at YouTube that builds a data warehouse for a billion active users.
+
+In 2012 Sef built and delivered an open-source online learning platform for Stanford University during the MOOC heyday. He merged his project with edX in exchange for getting them to open-source their stack. He has real-world experience in online education (specifically, higher ed) and running successful open-source projects.
+
+He serves on the Board of Directors and Executive Committee of Peninsula School, a progressive K-8 school in Menlo Park.  Sef’s blog and resume can be found at [http://sef.kloninger.com/](http://sef.kloninger.com/).
+
+
+Areas of Focus
+
+- Open Source
+- Online Education
+- Non-Profit Governance
+
+<br />
+<br />
+<br />
+
+###Vidya Spandana
+
+<img alt="Bridge Foundry Advisor Vidya Spandana" class="img-circle bridgefoundry-advisors-imgs" src="https://pbs.twimg.com/profile_images/632773269108621312/Z8bhwTNu.jpg">
+
+Vidya builds high-growth, high-impact startups that scale. She’s currently the chief growth officer at Popily. As a college undergraduate, Vidya co-founded DMV.org and turned it into a multi-million dollar business before turning 21. The company made the Inc. 5000 list, reporting 391% growth in three years. For the last 15 years, Vidya has been advising startups on strategic growth, working with accelerators, incubators, and investor networks. She served as president on the board of directors of [CodeScouts](http://www.codescouts.org), a non-profit dedicated to the mission of supporting and encouraging minority and underrepresented communities to learn to code -- helping to finally oversee the merger of CodeScouts into [ChickTech](http://chicktech.org/). More recently Vidya worked with the White House as a Presidential Innovation Fellow, helping the Office of Science and Technology Policy with the mandate to leverage open data and partnerships to promote economic growth in the world’s poorest countries. Vidya has been a mentor and advisor at various early-stage venture firms and startup accelerators such as [TechStars](http://www.techstars.com/), [KickLabs](http://transmediacapital.com/) and [Astia](http://astia.org/). She is also a co-host of [Partially Derivative](http://partiallyderivative.com/), the popular data science podcast. 
+
+Today, Vidya is founder of Popily.com a data exploration startup and holds several tech/innovation boardseats.  For more information on Vidya’s work, please visit: [vidyaspandana.com](http://www.vidyaspandana.com/)
+
+Areas of Focus
+
+- Entrepreneurship
+- Open Data
+- Global Partnerships
+- Business Development
+- Growth Strategy
+- Marketing Strategy
+- Public-Private Partnerships
