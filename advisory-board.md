@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Bridge Foundry Advisory Board
 ---
 
 ##Bridge Foundry Advisory Board
