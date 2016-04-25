@@ -3,10 +3,6 @@ layout: post
 title: Bridge Foundry Advisory Board
 ---
 
-##Bridge Foundry Advisory Board
-
-<br />
-<br />
 <br />
 
 ###Jennifer Argüello
@@ -67,22 +63,22 @@ Areas of Focus
 <img alt="Bridge Foundry Advisor Lisa Gelobter" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAUYAAAAJDcyODAzNzY1LTg2MjItNDAwOS1hMTBlLTM3NzgxMGRlMGYzZQ.jpg">
 
 Lisa Gelobter works for the White House, in the United States Digital Service. She is currently serving as the Chief Digital Service Officer with the US Department of Education.
- 
+
 Lisa has been working in digital technology for more than 20 years, with a focus on strategy, operations, and product development. She has been integrally involved with the advent of several pioneering internet technologies, including Shockwave, the genesis of animation on the web, and the emergence of online video by way of Brightcove, Joost, and The FeedRoom. Previously, Lisa was the Interim Head of Digital for BET Networks and ran Technology, Product and Business Operations. She was also a member of the senior management team for the launch of Hulu. Through the convergence of media and technology, Lisa has been fortunate enough to have had an impact on how, where, and when media is consumed and she is now bringing that consumer focus and transformative practice to bear in government.
- 
+
 Lisa is proud to be a Black Woman with a degree in Computer Science. Go STEM!
- 
+
 Areas of Focus
 
 - Technical Leadership
 - Media Technology
-- Diversity in STEM 
+- Diversity in STEM
 
 <br />
 <br />
 <br />
 
-###Sef Kloninger 
+###Sef Kloninger
 
 <img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAKCAAAAJGRkMTE3NTQyLTJlNzMtNGIxMy04MmEwLTFjZWY0NDE4MTE3ZQ.jpg">
 
@@ -107,7 +103,7 @@ Areas of Focus
 
 <img alt="Bridge Foundry Advisor Vidya Spandana" class="img-circle bridgefoundry-advisors-imgs" src="https://pbs.twimg.com/profile_images/632773269108621312/Z8bhwTNu.jpg">
 
-Vidya builds high-growth, high-impact startups that scale. She’s currently the chief growth officer at Popily. As a college undergraduate, Vidya co-founded DMV.org and turned it into a multi-million dollar business before turning 21. The company made the Inc. 5000 list, reporting 391% growth in three years. For the last 15 years, Vidya has been advising startups on strategic growth, working with accelerators, incubators, and investor networks. She served as president on the board of directors of [CodeScouts](http://www.codescouts.org), a non-profit dedicated to the mission of supporting and encouraging minority and underrepresented communities to learn to code -- helping to finally oversee the merger of CodeScouts into [ChickTech](http://chicktech.org/). More recently Vidya worked with the White House as a Presidential Innovation Fellow, helping the Office of Science and Technology Policy with the mandate to leverage open data and partnerships to promote economic growth in the world’s poorest countries. Vidya has been a mentor and advisor at various early-stage venture firms and startup accelerators such as [TechStars](http://www.techstars.com/), [KickLabs](http://transmediacapital.com/) and [Astia](http://astia.org/). She is also a co-host of [Partially Derivative](http://partiallyderivative.com/), the popular data science podcast. 
+Vidya builds high-growth, high-impact startups that scale. She’s currently the chief growth officer at Popily. As a college undergraduate, Vidya co-founded DMV.org and turned it into a multi-million dollar business before turning 21. The company made the Inc. 5000 list, reporting 391% growth in three years. For the last 15 years, Vidya has been advising startups on strategic growth, working with accelerators, incubators, and investor networks. She served as president on the board of directors of [CodeScouts](http://www.codescouts.org), a non-profit dedicated to the mission of supporting and encouraging minority and underrepresented communities to learn to code -- helping to finally oversee the merger of CodeScouts into [ChickTech](http://chicktech.org/). More recently Vidya worked with the White House as a Presidential Innovation Fellow, helping the Office of Science and Technology Policy with the mandate to leverage open data and partnerships to promote economic growth in the world’s poorest countries. Vidya has been a mentor and advisor at various early-stage venture firms and startup accelerators such as [TechStars](http://www.techstars.com/), [KickLabs](http://transmediacapital.com/) and [Astia](http://astia.org/). She is also a co-host of [Partially Derivative](http://partiallyderivative.com/), the popular data science podcast.
 
 Today, Vidya is founder of Popily.com a data exploration startup and holds several tech/innovation boardseats.  For more information on Vidya’s work, please visit: [vidyaspandana.com](http://www.vidyaspandana.com/)
 
