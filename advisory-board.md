@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Bridge Foundry Advisory Board
+title: Advisory Board
 ---
 
 <br />
+<br />
 
-###Jennifer Argüello
+### Jennifer Argüello
 
 <img alt="Bridge Foundry Advisor Jennifer Argüello" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAARIAAAAJDJlOTBkOWIxLTI0MmUtNDBlZS1hNTA2LTNkNjA0M2RmM2IzNQ.jpg">
 
@@ -22,7 +23,7 @@ Areas of Focus
 <br />
 <br />
 
-###Chris Aniszczyk
+### Chris Aniszczyk
 
 <img alt="Bridge Foundry Advisor Chris Aniszczyk" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/035/29b/2ddb4a1.jpg">
 
@@ -40,7 +41,7 @@ Areas of Focus
 <br />
 <br />
 
-###Amanda Cooper
+###  Amanda Cooper
 
 <img alt="Bridge Foundry Advisor Amanda Cooper" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/p/8/005/0b7/130/18a8910.jpg">
 
@@ -58,7 +59,7 @@ Areas of Focus
 <br />
 <br />
 
-###Lisa Gelobter
+### Lisa Gelobter
 
 <img alt="Bridge Foundry Advisor Lisa Gelobter" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAUYAAAAJDcyODAzNzY1LTg2MjItNDAwOS1hMTBlLTM3NzgxMGRlMGYzZQ.jpg">
 
@@ -78,7 +79,7 @@ Areas of Focus
 <br />
 <br />
 
-###Sef Kloninger
+### Sef Kloninger
 
 <img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAKCAAAAJGRkMTE3NTQyLTJlNzMtNGIxMy04MmEwLTFjZWY0NDE4MTE3ZQ.jpg">
 
@@ -99,7 +100,7 @@ Areas of Focus
 <br />
 <br />
 
-###Vidya Spandana
+### Vidya Spandana
 
 <img alt="Bridge Foundry Advisor Vidya Spandana" class="img-circle bridgefoundry-advisors-imgs" src="https://pbs.twimg.com/profile_images/632773269108621312/Z8bhwTNu.jpg">
 
