@@ -83,12 +83,11 @@ Areas of Focus
 
 <img alt="Bridge Foundry Advisor Sef Kloninger" class="img-circle bridgefoundry-advisors-imgs" src="https://media.licdn.com/media/AAEAAQAAAAAAAAKCAAAAJGRkMTE3NTQyLTJlNzMtNGIxMy04MmEwLTFjZWY0NDE4MTE3ZQ.jpg">
 
-Sef Kloninger has been a professional software engineer and engineering manager for over twenty years. Most of his work has been developing infrastructure and services for Internet applications at Akamai, VMware, Ning, and Google. He has worked in big enterprise software engineering orgs as well as small fast-moving teams. He prefers agile teams delivering weekly instead of yearly. He currently manages an engineering team at YouTube that builds a data warehouse for a billion active users.
+Sef Kloninger ([@sefk](https://twitter.com/sefk)) has been a professional software engineer and engineering manager for over twenty years. His expertise is building and scaling Internet infrastructure and applications at Akamai, VMware, Ning, Google, and several startups. He has worked in big enterprise software engineering organizations as well as small fast-moving teams. He currently manages the engineering team at YouTube that builds the data warehouse for over a billion active users.
 
-In 2012 Sef built and delivered an open-source online learning platform for Stanford University during the MOOC heyday. He merged his project with edX in exchange for getting them to open-source their stack. He has real-world experience in online education (specifically, higher ed) and running successful open-source projects.
+In 2012 Sef built and delivered an open-source online learning platform for Stanford University during the MOOC heyday. He merged his project with edX in exchange for getting them to open-source their stack. He has real-world experience in higher-ed online education and running successful open-source projects.
 
-He serves on the Board of Directors and Executive Committee of Peninsula School, a progressive K-8 school in Menlo Park.  Sef’s blog and resume can be found at [http://sef.kloninger.com/](http://sef.kloninger.com/).
-
+Sef serves on the Board of Directors and Executive Committee of Peninsula School, a progressive K-8 school in Menlo Park, California. He occasionally blogs [here](https://sef.kloninger.com/).
 
 Areas of Focus
 
