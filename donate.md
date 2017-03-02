@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-## Donate to Bridge Foundry
-
 Our mission is to **empower people** with technology through 
 **teaching and facilitating access**, enlarging the community of people who 
 **give back and teach others**.
