@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Workshop Locations
 ---
 <link rel="stylesheet" type="text/css" href="http://bridgefoundry.org/workshop-map/workshop-map.css">
