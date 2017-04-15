@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - 4.0.0
+
+install:
+  - rvm install 2.3.1
+  - bundle install
+
+cache:
+  bundler: true
+
+script:
+  - bundle exec jekyll build
+
+deploy:
+  provider: firebase
+  token:
+    secure: "${FIREBASE_TOKEN}"
+  project: bridgefoundry-site
+
