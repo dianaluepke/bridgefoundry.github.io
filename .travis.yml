@@ -9,6 +9,9 @@ before_install:
 cache:
   bundler: true
 
+script:
+  echo "will deploy Firebase project: $FIREBASE_PROJECT"
+
 deploy:
   provider: firebase
   token:
