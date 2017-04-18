@@ -12,6 +12,7 @@ cache:
 script:
   - bundle exec jekyll build
   - ls _site
+  - cat _site/index.html
 
 deploy:
   provider: firebase
