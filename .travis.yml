@@ -1,3 +1,4 @@
+sudo: false
 language: node_js
 node_js:
   - 4.0.0
@@ -15,6 +16,7 @@ script:
   - cat _site/index.html
 
 deploy:
+  skip_cleanup: true        
   provider: firebase
   token:
     secure: "${FIREBASE_TOKEN}"
