@@ -11,12 +11,12 @@ cache:
 
 script:
   - bundle exec jekyll build
-  - echo "will deploy Firebase project ${FIREBASE_PROJECT}"
 
 deploy:
   provider: firebase
   token:
     secure: "${FIREBASE_TOKEN}"
-  project: "${FIREBASE_PROJECT}"
-
+  project: bridgefoundry-site
+  on:
+    branch: firebase-hosting
 
