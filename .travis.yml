@@ -19,7 +19,7 @@ deploy:
   skip_cleanup: true        
   provider: firebase
   token:
-    secure: "${FIREBASE_TOKEN}"
+    secure: "$FIREBASE_TOKEN"
   project: bridgefoundry-website
   on:
     branch: firebase-hosting
