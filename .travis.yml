@@ -20,7 +20,7 @@ deploy:
   provider: firebase
   token:
     secure: "${FIREBASE_TOKEN}"
-  project: bridgefoundry-site
+  project: bridgefoundry-website
   on:
     branch: firebase-hosting
 
