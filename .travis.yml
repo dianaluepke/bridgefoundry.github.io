@@ -10,6 +10,9 @@ cache:
   bundler: true
 
 script:
+  - git clone https://github.com/bridgefoundry/code-of-conduct.git
+  - (cd code-of-conduct-src; bundle exec jekyll build --destination ../code-of-conduct)
+  - rm -rf code-of-conduct-src
   - bundle exec jekyll build
 
 deploy:
