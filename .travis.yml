@@ -11,7 +11,7 @@ cache:
 
 script:
   - git clone https://github.com/bridgefoundry/code-of-conduct.git code-of-conduct-src
-  - (cd code-of-conduct-src; bundle exec jekyll build --destination ../code-of-conduct)
+  - (cd code-of-conduct-src; bundle; bundle exec jekyll build --destination ../code-of-conduct)
   - rm -rf code-of-conduct-src
   - bundle exec jekyll build
 
