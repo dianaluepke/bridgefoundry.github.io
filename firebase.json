@@ -1,7 +1,16 @@
 {
   "hosting": {
     "public": "_site",
-    "cleanUrls": true
+    "cleanUrls": true,
+    "ignore": [
+      "firebase.json",
+      "README.*",
+      ".travis.yml",
+      "Gemfile*",
+      ".rvmrc",
+      "workshop-map-src/**/.*",
+      "code-of-conduce-src/**/.*"
+    ]
   }
 }
 

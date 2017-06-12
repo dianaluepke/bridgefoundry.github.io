@@ -2,3 +2,5 @@ _site/
 .idea/
 *.swp
 .DS_Store
+code-of-conduct/**
+workshop-map/**

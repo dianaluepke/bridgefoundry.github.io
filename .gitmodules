@@ -1,0 +1,6 @@
+[submodule "workshop-map-src"]
+	path = workshop-map-src
+	url = git@github.com:bridgefoundry/workshop-map.git
+[submodule "code-of-conduct-src"]
+	path = code-of-conduct-src
+	url = git@github.com:bridgefoundry/code-of-conduct.git
