@@ -12,3 +12,4 @@ repos:
 
 encoding: utf-8
 markdown: kramdown
+future: true

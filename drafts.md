@@ -2,13 +2,14 @@
 layout: post
 title: Draft Blog Posts
 ---
-{% for post in site.posts %}
-  {% if post.draft %}
+{% if site.tags.draft.size != 0 %}
+	{% for post in site.tags.draft %}
 
 ## [{{ post.title }} ]({{ post.url }})
 {{ post.date | date_to_string }}
   {{ post.excerpt }}
 [read more]({{ post.url }})
 
-  {% endif %}
-{% endfor %}
+	{% endfor %}
+{% endif %}
+
