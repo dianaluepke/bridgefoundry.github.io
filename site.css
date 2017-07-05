@@ -27,3 +27,39 @@ body {
 .bridgefoundry-advisors-imgs {
   margin: 0 auto 5px 5px;border: 2px solid #ccc;width: 150px;height: 150px;float: right;
 }
+
+
+
+/* Donate button */
+.donate-area {
+  height: 60px;
+}
+.donate-btn {
+  margin: 4px;
+  color: #fff;
+  background-color: #db5566;
+  border-bottom:2px solid #af4451;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  text-decoration:none;
+  float: left;
+}
+
+.donate-btn:hover {
+  color: #fff;
+  background-color: #df6a78;
+  border-bottom:2px solid #b25560;
+  outline: none;
+  text-decoration:none
+}
+
+
+.donate-btn:active {
+  color: #fff;
+  background-color: #c04b59;
+  border-top:2px solid #9a3c47;
+  margin-top: 2px;
+}
+
