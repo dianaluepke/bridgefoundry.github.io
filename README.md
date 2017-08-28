@@ -42,3 +42,12 @@ jekyll serve
 ```
 
 point your browser at: http://localhost:4000/
+
+
+## Deploying the site
+
+https://travis-ci.org/bridgefoundry/bridgefoundry.github.io.svg?branch=master
+
+The site is deployed with Firebase hosting and should automatically deploy
+whenever a change is checked into master.  If there are any issues, please
+send email to admin@bridgefoundry.org
