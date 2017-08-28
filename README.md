@@ -46,7 +46,7 @@ point your browser at: http://localhost:4000/
 
 ## Deploying the site
 
-https://travis-ci.org/bridgefoundry/bridgefoundry.github.io.svg?branch=master
+[![Build Status](https://travis-ci.org/bridgefoundry/bridgefoundry.github.io.svg?branch=master)](https://travis-ci.org/bridgefoundry/bridgefoundry.github.io)
 
 The site is deployed with Firebase hosting and should automatically deploy
 whenever a change is checked into master.  If there are any issues, please
