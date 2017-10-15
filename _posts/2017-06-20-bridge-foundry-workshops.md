@@ -1,7 +1,6 @@
 ---
 layout: post
-title: community initiatives all over the world
-tags: draft
+title: Community Initiatives All Over the World
 ---
 
 Bridge Foundry volunteers share skills by creating open source curriculum, 
