@@ -51,3 +51,7 @@ point your browser at: http://localhost:4000/
 The site is deployed with Firebase hosting and should automatically deploy
 whenever a change is checked into master.  If there are any issues, please
 send email to admin@bridgefoundry.org
+
+When we update the code-of-conduct or workshop-map, then we need to make some
+kind of change to this repo (such as this README) in order to trigger a new
+deploy.
