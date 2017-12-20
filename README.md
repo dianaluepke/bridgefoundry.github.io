@@ -21,7 +21,7 @@ tags: ready
 ---
 ```
 4. On the next empty line, compose your post. You can use Markdown tags like `**bold**` or even raw HTML.
-5. Follow the steps in the rest of this README for local previewing ("Local development") and deployment of your post
+5. Follow the steps in the rest of this README for local previewing ("Local development") and deployment of your post.
 
 
 ## Local development
