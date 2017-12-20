@@ -6,6 +6,24 @@ This site is build with [Jeykll](https://jekyllrb.com/) and hosted on
 update the website.
 
 
+## Adding a blog post
+
+0. Check out this repo with `git clone` to your local computer.
+0. Create a file in the `_posts` directory. The format of the file name is
+important! It should be `YYYY-MM-DD-first-few-words-or-desc-of-post.md`. The
+date is the date that the blog post should appear to have been published on.
+0. Add the following Jekyll "front matter" to the top of your new markdown file:
+```
+---
+layout: post
+title: This is the Title of Your Blog Post
+tags: ready
+---
+```
+0. On the next empty line, compose your post. You can use Markdown tags like `**bold**` or even raw HTML.
+0. Follow the steps in the rest of this README for local previewing ("Local development") and deployment of your post
+
+
 ## Local development
 
 install Ruby
