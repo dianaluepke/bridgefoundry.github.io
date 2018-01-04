@@ -7,7 +7,7 @@ tags: ready
 
 I’ve been associated consistently with Bridge Foundry (formerly known as RailsBridge) since at least 2010. I started as a student, then became a volunteer teaching assistant, then I started organizing events. As the organization grew and new “bridges” were added and workshops were being held world wide, I began mentoring new organizers and then once Bridge Foundry got off the ground, I became their first paid employee. 
 
-I often find myself clarifying just what Bridge Foundry is about to people. Firstly: While we are about enhancing the diversity of the software engineering community, we are an INCLUSIVE community and we do allow all walks of life into our workshops.  The reason why: we WELCOME the people who typically dominate the industry to be in attendance at an event that is lead by people who are not usually in the majority. And to see that those underrepresented people are sharp, capable and intelligent too. 
+I often find myself clarifying just what Bridge Foundry is about to people. Firstly: While we are about enhancing the diversity of the software engineering community, we are an INCLUSIVE community and we do allow all walks of life into our workshops.  The reason why: we WELCOME the people who typically dominate the industry to be in attendance at an event that is led by people who are not usually in the majority. And to see that those underrepresented people are sharp, capable and intelligent too. 
 
 But here’s the thing: -- hold onto your hats: It’s NOT just about teaching people to code. NOPE. It’s not!  
 
@@ -23,9 +23,10 @@ But HERE is where I really get really excited about Bridge Foundry:  The work I�
 
 I’ve learned to be comfortable in an organization full of strong women and people of color — people like me and people who are different from me. And if I want the freedom to use my strong voice, I need to give other people the space to use theirs -- and to be who they are. 
 
-RailsBridge Co-Founder, Sarah Allen, has said about workshop attendees,  “If anyone has a problem with someone and they’re not hurting anyone, then THEY need to deal with their discomfort within their own self”. Everyone has something to contribute, you see. Everyone has worth. 
+RailsBridge co-founder, Sarah Allen, has said about workshop attendees,  “If anyone has a problem with someone who is not hurting anyone, then THEY need to deal with their discomfort within their own self”. Everyone has something to contribute, you see. Everyone has worth. 
 
-So, This. THIS, my friends is the REAL magic of Bridge Foundry and is at the heart of who we are. This idea really plays into the long view of who we are and where we’re headed
+So, This. THIS, my friends is the REAL magic of Bridge Foundry and is at the heart of who we are. This idea really plays into the long view of who we are and where we’re headed.
+
 In the meantime, please share your experiences or thoughts! Have you overcome a particular issue in your community? Have you had your own journey of personal growth? Are you shocked to hear this--that we’re not REALLY just about teaching programming? I’d love to hear in the comments. Blog posts about your own experiences are welcome too and you can post here <link>. 
 
 Disclaimer: I still enjoy coding but no longer do paid work as a developer. My reasons for that are personal and I won’t get into it here, but if you’re curious, please feel free to get in touch to talk about it.
