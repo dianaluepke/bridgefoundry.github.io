@@ -15,7 +15,7 @@ Wait. What??!!
 
 It’s about so much more than that. 
 
-It’s about transformation, community and the magic that can happen when people who had no idea they could do something that “only ***smart*** ***nerdy*** ***techy*** people” can do. And at our workshops they are empowered to do just that. 
+It’s about transformation, community and the magic that can happen when people who had no idea they could do something that “only ***smart*** ***nerdy*** ***techy*** people” can do. And at our workshops, alongside other attendees who are experienced developers, people new to coding are empowered to do just that.
 
 YES! You too, can be a nerd. 
 
