@@ -5,6 +5,8 @@ defaults:
     values:
       layout: "default"
 
+exclude: ["code-of-conduct-src"]
+
 repos:
 - name: Bridge Foundry
   description: Main repository
