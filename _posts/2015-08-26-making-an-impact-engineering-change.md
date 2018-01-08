@@ -3,6 +3,7 @@ layout: post
 title: Making An Impact, Engineering Change
 tags: ready
 ---
+*Post by [Isa Herico](http://www.twitter.com/msherico)*<br>
 The Bridge Foundry community is filled with passionate change agents.
 
 Not too long from when Sarah Allen and I met, she told me the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup).  In this story, a group of people combine forces to make something happen in order to help themselves and each other.
@@ -43,4 +44,3 @@ __Q: What is the status of the billboard campaign and how can we help?__
 
 Passion is electric.  It is contagious.  And it can be magnified.​  ​We can positively affect our environment with what we radiate out to it.  [#ILookLikeAnEngineer](http://igg.me/at/i-look-like-an-engineer)  - this one idea and one focal point, is its own stone soup.  In true *\*Bridge* fashion, let us bring what we can to the table - to make this billboard happen - and let us feed each other with the energy that can catapult more positive ideas into the light.
 
-By [Isa Herico](http://www.twitter.com/msherico), contributor

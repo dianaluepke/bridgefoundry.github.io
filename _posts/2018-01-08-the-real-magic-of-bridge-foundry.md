@@ -3,8 +3,7 @@ layout: post
 title: The Real Magic of Bridge Foundry
 tags: ready
 ---
-*Post by Mary Jenn*
-
+*Post by Mary Jenn* <br>
 I often find myself clarifying just what Bridge Foundry is about to people. Firstly: While we are about enhancing the diversity of the software engineering community, we are an INCLUSIVE community and we do allow all walks of life into our workshops.  The reason why: we WELCOME the people who typically dominate the industry to be in attendance at an event that is led by people who are not usually in the majority. And to see that those underrepresented people are sharp, capable and intelligent too.
 <!--more-->
 
