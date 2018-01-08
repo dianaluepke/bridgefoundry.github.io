@@ -27,6 +27,4 @@ RailsBridge co-founder, Sarah Allen, has said about workshop attendees,  “If a
 
 So, This. THIS, my friends is the REAL magic of Bridge Foundry and is at the heart of who we are. This idea really plays into the long view of who we are and where we’re headed.
 
-In the meantime, please share your experiences or thoughts! Have you overcome a particular issue in your community? Have you had your own journey of personal growth? Are you shocked to hear this--that we’re not REALLY just about teaching programming? I’d love to hear in the comments. Blog posts about your own experiences are welcome too and you can post here <link>. 
-
-Disclaimer: I still enjoy coding but no longer do paid work as a developer. My reasons for that are personal and I won’t get into it here, but if you’re curious, please feel free to get in touch to talk about it.
+In the meantime, please share your experiences or thoughts! Have you overcome a particular issue in your community? Have you had your own journey of personal growth? Are you shocked to hear this -- that we’re not REALLY just about teaching programming? We would love to hear about your experiences.. you can submit ideas or draft posts as a [github issue](https://github.com/bridgefoundry/bridgefoundry.github.io/issues/new) or even directly as a [pull request](https://github.com/bridgefoundry/bridgefoundry.github.io).
