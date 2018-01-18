@@ -25,7 +25,7 @@ But HERE is where I really get really excited about Bridge Foundry:  The work I�
 
 I’ve learned to be comfortable in an organization full of strong women and people of color — people like me and people who are different from me. And if I want the freedom to use my strong voice, I need to give other people the space to use theirs -- and to be who they are.
 
-RailsBridge co-founder, Sarah Allen, has said about workshop attendees,  “If anyone has a problem with someone who is acting respectfully to others yet has a different working style, then they need to reflect on that discomfort and learn to work with people different from themselves”. Everyone has something to contribute, you see. Everyone has worth.
+RailsBridge co-founder, Sarah Allen, has said about workshop attendees,  “If anyone has a problem with someone who is acting respectfully toward others yet has a different working style or appearance, then they need to reflect on that discomfort and learn to work with people different from themselves”. Everyone has something to contribute, you see. Everyone has worth.
 
 This is the *real* magic of Bridge Foundry and is at the heart of who we are. This idea really plays into the long view of who we are and where we’re headed.
 
