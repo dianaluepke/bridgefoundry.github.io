@@ -1,16 +1,17 @@
 ---
 layout: post
-title: ScalaBridge founder story
+title: Founding ScalaBridge
 tags: draft
 ---
 *Post by Kelley Robinson, ScalaBridge founder* <br>
+We had our first workshop in February of 2017 (in San Francisco), and since then have helped other chapters in 10 cities hold their own workshops. We had our second workshop in SF in August of 2017.
+<a href="{{ site.github.url }}/images/blog/2018-02-15-scalabridge-large.jpg"><img src="{{ site.github.url }}/images/blog/2018-02-15-scalabridge.png" alt="four smiling people with SF bay bridge in the background" width="100%"/></a>
+<!--more-->
 
-Kelley has been a software developer for 4.5 years, mostly doing Scala at a variety of startups in San Francisco. Originally she went to school for Business, then learned how to program in a three month coding bootcamp about 5 years ago. Like all developers, most skills required for software development were learned outside of “formal training.” She took an interest in coding education because it was both formal and informal education that helped her develop her career as a software developer.
+I have been a software developer for 5 years, mostly doing Scala at a variety of startups in San Francisco. Originally I went to school for Business, then learned how to program in a three month coding bootcamp about 5 years ago. Like all developers, most skills required for software development were learned outside of “formal training.” I took an interest in coding education because it was both formal and informal education that helped develop my career as a software developer.
 
 ## Starting ScalaBridge
 In 2015, I gave my first conference talk at Scala Days in New York. I was one of 3 women speaking at the conference, and one of only a handful even at the conference. There are also a lot of misconceptions out there that Scala is too hard for beginners, which is so not true! I’d heard great things about other *Bridges and knew one had to exist for Scala to help bridge these gaps.
-
-We had our first workshop in February of 2017 (in San Francisco), and since then have helped other chapters in 10 cities hold their own workshops. We had our second workshop in SF in August of 2017.
 
 ## Developing the Scala workshops
 The biggest challenge at the beginning was figuring out what to teach. We initially held some curriculum hack days with volunteers to help write the curriculum, but it became obvious that that would not scale. The (eventual) organizer of several ScalaBridge workshops, Noel Welsh, ended up donating the curriculum that his consulting company had created for introductory Scala. It was a great way to involve the community and get up and running!
@@ -23,9 +24,6 @@ We had a new team of volunteers working together to create the first workshop in
 
 ## Food
 Our first workshop was on a beautiful day, luckily our venue (Sharethrough) had a beautiful back deck so the snack breaks allowed people to get some fresh air, recharge, and get to know the other attendees.
-
-Inline-style:
-![photo from workshop](https://twitter.com/ScalaBridge/status/830496700045291521)
 
 ## Installfest
 We tried to streamline the installation as much as possible, but it was super useful to have the installfest so we could debug some of the corner cases that inevitably come up.
