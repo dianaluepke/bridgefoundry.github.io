@@ -37,14 +37,14 @@ Since that first workshop, community volunteers have been supported by companies
 all over the world -- welcoming people from diverse backgrounds at all levels
 of experience to new adventures in Scala.
 
-Program sponsors: SoundCloud, Lightbend, Stripe
+Program sponsors: [SoundCloud](https://soundcloud.com/), [Lightbend](https://www.lightbend.com/), [Stripe](https://stripe.com)
 
 Local sponsors:
 
-* Stockholm: Klarna
+* Stockholm: [Klarna](https://www.klarna.com/)
 * Chicago: [8th Light](https://8thlight.com/)
-* Copenhagen: Lightbend, the Scala Center, Trifork, and Underscore
-* NYC: Meetup, Driver, and Bridgewater
-* Seattle: Marchex, Underscore, Maana, and Simple
-* Berlin: innoQ Deutschland
-* San Francisco: Sharethrough, Radius Intelligence
+* Copenhagen: [Lightbend](https://www.lightbend.com/), [the Scala Center](https://scala.epfl.ch/), [Trifork](https://trifork.com/), and [Underscore](https://underscore.io)
+* NYC: [Meetup](https://www.meetup.com/), [Driver](https://driver.xyz/), and [Bridgewater](https://www.bridgewater.com/)
+* Seattle: [Marchex](https://www.marchex.com/), [Underscore](https://underscore.io), [Maana](https://www.maana.io/), and [Simple](https://www.simple.com/)
+* Berlin: [innoQ Deutschland](https://www.innoq.com)
+* San Francisco: [Sharethrough](https://sharethrough.com/), [Radius Intelligence](https://radius.com/)
