@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Founding ScalaBridge
-tags: draft
+tags: ready
 ---
 *Post by Kelley Robinson, ScalaBridge founder* <br>
 We had our first workshop in February of 2017 (in San Francisco), and since then have helped other chapters in 10 cities hold their own workshops. We had our second workshop in SF in August of 2017.
