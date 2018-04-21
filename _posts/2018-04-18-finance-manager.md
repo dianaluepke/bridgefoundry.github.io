@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finance Manager
-tags: draft
+tags: ready
 ---
 
 Know someone who wants to change the world and keep the books? Bridge Foundry is seeking a part-time Finance Manager.
