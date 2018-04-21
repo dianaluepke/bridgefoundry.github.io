@@ -6,7 +6,7 @@ tags: draft
 
 Know someone who wants to change the world and keep the books? Bridge Foundry is seeking a part-time Finance Manager.
 
-We are looking for someone who will help shape the success of our growing nonprofit organization, supporting the work of hundreds of volunteers who organize workshops around the world.
+We are looking for someone who will help shape the success of our growing nonprofit organization, supporting the work of hundreds of volunteers who organize tech training workshops, raise funds to send folks to conferences, and other high impact initiatives.
 
 Many of Bridge Foundry's core services to our volunteers are finance related: reimbursements for workshop expenses, funds transfers, grant applications, and so on. The Finance Manager will keep $$ and communication flowing smoothly so that our volunteers can focus on their efforts to increase diversity and inclusion in the tech industry.
 
