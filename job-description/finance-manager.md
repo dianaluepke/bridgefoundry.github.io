@@ -40,6 +40,11 @@ Bridge Foundry operates without a physical office and you will be able to perfor
 * Familiarity with the tech industry and/or coding
 * Familiarity with diversity & inclusion work
 
+## Payment & Hours
+We anticipate the work to take about 25-40 hours/month and we are interested in working with contractors who are able to deliver services within our $1,000/month budget. We are open to exploring different payment structures.
+
 ## To Apply / Learn More
 
-Please send information about your past experience, including your experience working with diverse teams to jobs@bridgefoundry.org. Please ensure that your submission makes it clear that you are operating a business that offers these services and that you are eligible to work as a contractor.
+Learn more about the role through our FAQ [here](https://docs.google.com/document/d/1et8YopHgwZ5UkTfWsZpfp7-FvOa-SIZjKsmWBAkdVOM/edit?usp=sharing). 
+
+To express interest, please send information about your past experience, including your experience working with diverse teams to jobs@bridgefoundry.org. Please ensure that your submission makes it clear that you are operating a business that offers these services and that you are eligible to work as a contractor.
